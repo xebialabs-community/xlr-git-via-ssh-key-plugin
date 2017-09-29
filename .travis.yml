@@ -7,6 +7,10 @@ deploy:
   provider: releases
   api_key:
     secure: f/y3Dia0sav9eLb8vlL6d4ta1E8lKVpL/ZnWFMmW6rlwNI578Otxe9SROOo7kQu9YBlzzYQF3k1gu9CcGjf9vKN3U42HCA2vE4z/98x3rN0K4UeVxs+JE2cSAjk3ZrVe26nftlZmBuSpYsp4ka0upFGjFUJaoxrTqXjSrdq20kv96DEfqgDybX0TstquS95n1rWPoX02TC8WHQ5nxb/A9hiJ9mMDDCDrtxGevegsaVhDFDB8dnsIJRkkYRXSLS8QBCtHQG7s7MiP5/XMF3c3ar86C4cD1pjCD4Lw7/EqJ/uYYbqGvXbTK3Y1jeuZeTaeUFPXr60kyieOIvIuGJcT9vBMx/hLFaylMh/jo2nviBiMjiORwHzQVxjge05aD/byYUUftFbzzzqmiUEQopTMMEf9TBFDQpKjnnQVCSilX+WWcnU1XhdUDEcXvYEndIKPyk/M+V6Q4ku2AUxus1gfVJjLLpbZdT1KGanUqIFGCgXho368Pxa25p8+0zz/pKoSHrzeL1ThZ0GwFUZUUOLucD6JyKuic2qLFv/hMft9+PMk/nz+s7bGvcUUCHtcUazIjyAV089wjshXmeWFiwXO6ic5EfqqExv8v5nqL6/BO65WRRFJeti8M1zAyP/dCUiVBzeGJGUE2chGOV7P5LXfG/AdqVoYocRXFHcrBfP3ttc=
-  file: build/libs/*
+  file: build/libs/xlr-git-via-ssh-key-plugin-1.0.0.jar
+  skip_cleanup: true
   on:
+    all_branches: true
+    tags: true
     repo: xebialabs-community/xlr-git-via-ssh-key-plugin
+
