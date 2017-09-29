@@ -1,14 +1,14 @@
 # XL Release Git-via-SSH-key plugin
 
-[![Build Status][xlr-git-via-ssk-key-plugin-travis-image]][xlr-git-via-ssk-key-plugin-travis-url]
-[![License: MIT][xlr-git-via-ssk-key-plugin-license-image]][xlr-git-via-ssk-key-plugin-license-url]
-![Github All Releases][xlr-git-via-ssk-key-plugin-downloads-image]
+[![Build Status][xlr-git-via-ssh-key-plugin-travis-image]][xlr-git-via-ssh-key-plugin-travis-url]
+[![License: MIT][xlr-git-via-ssh-key-plugin-license-image]][xlr-git-via-ssh-key-plugin-license-url]
+![Github All Releases][xlr-git-via-ssh-key-plugin-downloads-image]
 
-[xlr-git-via-ssk-key-plugin-travis-image]: https://travis-ci.org/xebialabs-community/xlr-git-via-ssk-key-plugin.svg?branch=master
-[xlr-git-via-ssk-key-plugin-travis-url]: https://travis-ci.org/xebialabs-community/xlr-git-via-ssk-key-plugin
-[xlr-git-via-ssk-key-plugin-license-image]: https://img.shields.io/badge/License-MIT-yellow.svg
-[xlr-git-via-ssk-key-plugin-license-url]: https://opensource.org/licenses/MIT
-[xlr-git-via-ssk-key-plugin-downloads-image]: https://img.shields.io/github/downloads/xebialabs-community/xlr-git-via-ssk-key-plugin/total.svg
+[xlr-git-via-ssh-key-plugin-travis-image]: https://travis-ci.org/xebialabs-community/xlr-git-via-ssh-key-plugin.svg?branch=master
+[xlr-git-via-ssh-key-plugin-travis-url]: https://travis-ci.org/xebialabs-community/xlr-git-via-ssh-key-plugin
+[xlr-git-via-ssh-key-plugin-license-image]: https://img.shields.io/badge/License-MIT-yellow.svg
+[xlr-git-via-ssh-key-plugin-license-url]: https://opensource.org/licenses/MIT
+[xlr-git-via-ssh-key-plugin-downloads-image]: https://img.shields.io/github/downloads/xebialabs-community/xlr-git-via-ssh-key-plugin/total.svg
 
 ## Preface
 
